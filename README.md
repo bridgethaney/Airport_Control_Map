@@ -21,4 +21,6 @@ I was surprised to see several hundred airports without a control tower. This is
 
 #### Credit
 
+Leaflet Ruler Plug-In (Bonus Points): [Leaflet Ruler](https://github.com/gokertanrisever/leaflet-ruler) by Göker Tanrısever in collaboration with Dmitriy Zaporozhets
+
 
