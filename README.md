@@ -3,7 +3,7 @@
 
 ### Control Towers or No Towers
 
-<img src="img/airport_map.png" width="800" height="500">
+<img src="img/airport_map.jpg" width="800" height="500">
 
 This map depicts tweets across the United States that are related to the keyword 'playlist'. Using a Twitter API crawler, tweets and their attributed geographic locations were collected and then mapped using QGIS. 
 
