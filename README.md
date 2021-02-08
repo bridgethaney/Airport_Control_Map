@@ -21,8 +21,8 @@ I was surprised to see several hundred airports without a control tower. This is
 
 #### Credit
 
-US States Boundaries: [] by Mike Bostock
+<b>US States Boundaries:</b> [] by Mike Bostock
 
-Leaflet Ruler Plug-In (Bonus Points): [Leaflet Ruler](https://github.com/gokertanrisever/leaflet-ruler) by Göker Tanrısever in collaboration with Dmitriy Zaporozhets
+<b>Leaflet Ruler Plug-In (Bonus Points):</b> [Leaflet Ruler](https://github.com/gokertanrisever/leaflet-ruler) by Göker Tanrısever in collaboration with Dmitriy Zaporozhets
 
 
