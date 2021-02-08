@@ -17,7 +17,7 @@ As for the legend, there are two main sections that are present: number of airpo
 
 #### Analysis
 
-I was surprised to see several hundred airports without a control tower. This is seemingly hazardous, as there is not proper focus being placed on air traffic. It is especially apparent in Alaska how many airports exist without control towers. Perhaps the number of planes going to and from the airports at a given time, as well as the trajectory of each flight plays a role in whether control towers are necessary. 
+I was surprised to see several hundred airports without a control tower. This is seemingly hazardous, as there is not proper focus being placed on air traffic. It is especially apparent in Alaska how many airports exist without control towers. Perhaps the number of planes going to and from the airports at a given time, as well as the trajectory of each flight plays a role in whether control towers are necessary. However, it still seems that there are more airports with control towers than without.
 
 #### Credit
 
