@@ -1,7 +1,7 @@
 # Map of Airports in the United States
 
 
-## Control Towers or No Towers?
+## Airport Control Map: Control Towers or No Towers?
 
 <img src="img/airport_map.JPG" width="800" height="500">
 
