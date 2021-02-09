@@ -21,10 +21,10 @@ I was surprised to see several hundred airports without a control tower. This is
 
 ### Credit
 
-<b>Airport Dataset:</b> [Airport Data](https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile) by Data.Gov
+Airport Dataset: [Airport Data](https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile) by Data.Gov
 
-<b>US States Boundaries:</b> [US-States Boundaries](https://bost.ocks.org/mike/) by Mike Bostock
+US States Boundaries: [US-States Boundaries](https://bost.ocks.org/mike/) by Mike Bostock
 
-<b>Leaflet Ruler Plug-In (Bonus Points):</b> [Leaflet Ruler](https://github.com/gokertanrisever/leaflet-ruler) by Göker Tanrısever in collaboration with Dmitriy Zaporozhets
+Leaflet Ruler Plug-In (Bonus Points): [Leaflet Ruler](https://github.com/gokertanrisever/leaflet-ruler) by Göker Tanrısever in collaboration with Dmitriy Zaporozhets
 
 
