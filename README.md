@@ -34,7 +34,7 @@ It also makes sense that states like Florida, California, and Texas lead in numb
 
 This map was created with the assistance and guidance of the GEOG 458 lab 3 content produced by Bo Zhao. Code snippets from the lab were used and reworked to make this interactive project.
 
-### Credit
+### Data Sources and Other Resources with Credit
 
 Airport Dataset: [Airport Data](https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile) by Data.Gov
 
