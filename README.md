@@ -28,7 +28,6 @@ It also makes sense that states like Florida, California, and Texas lead in numb
 - Chroma.js -[Source](https://gka.github.io/chroma.js/)
   - Color palettes and selections
 - JQuery - [Source](https://jquery.com/)
-  -
 - Leaflet-Ruler - [Source](https://github.com/gokertanrisever/leaflet-ruler)
   - Allows users to find the distance between any given points on a map.
 - Font Awesome - [Source](https://fontawesome.com/)
