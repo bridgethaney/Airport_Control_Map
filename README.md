@@ -24,11 +24,15 @@ It also makes sense that states like Florida, California, and Texas lead in numb
 ### Libraries/Packages
 
 - Leaflet - [Source](https://leafletjs.com/)
+  - Interactive JavaScript map library
 - Chroma.js -[Source](https://gka.github.io/chroma.js/)
+  - Color palettes and selections
 - JQuery - [Source](https://jquery.com/)
+  -
 - Leaflet-Ruler - [Source](https://github.com/gokertanrisever/leaflet-ruler)
+  - Allows users to find the distance between any given points on a map.
 - Font Awesome - [Source](https://fontawesome.com/)
-  - usus
+  - Contains the airplane icons used in the map, as well as other icons.
 
 
 ### Acknowledgement
