@@ -3,11 +3,11 @@
 
 ## Airport Control Map: Control Towers or No Towers?
 
-<img src="img/airport_map.JPG" width="800" height="500">
+<img src="img/airport_map.JPG" width="1000" height="600">
 
 ### Introduction
 
-This choropleth map displays over 950 airports across all 50 states of the United States, as well as in the US territory of Puerto Rico. As observed, the airports are divided into whether they have control towers or not. The map is also color coordinated based on the number of airports in each state. These two pieces of information can formulate important analysis and hypotheses into why airports in the United States are operated in certain ways and whether there is a relationship between size of state and number of airports.
+This choropleth map displays over 950 airports across all 50 states of the United States, as well as in the US territory of Puerto Rico. As observed, the airports are divided into whether they have control towers or not. The map is also color coordinated based on the number of airports in each state. These two pieces of information can formulate important analysis and hypotheses into why airports in the United States are operated in certain ways and whether there is a relationship between size of states and number of airports.
 
 ### How to Use and Read the Map
 
