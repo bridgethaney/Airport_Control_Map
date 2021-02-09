@@ -23,11 +23,11 @@ It also makes sense that states like Florida, California, and Texas lead in numb
 
 ### Libraries/Packages
 
-- Leaflet
-- Chroma.js
-- JQuery
-- Leaflet-Ruler
-- Font Awesome
+- Leaflet - [Source](https://leafletjs.com/)
+- Chroma.js -[Source](https://gka.github.io/chroma.js/)
+- JQuery - [Source](https://jquery.com/)
+- Leaflet-Ruler - [Source](https://github.com/gokertanrisever/leaflet-ruler)
+- Font Awesome - [Source](https://fontawesome.com/)
 
 
 ### Acknowledgement
@@ -40,7 +40,7 @@ Airport Dataset: [Airport Data](https://catalog.data.gov/dataset/usgs-small-scal
 
 US States Boundaries: [US-States Boundaries](https://bost.ocks.org/mike/) by Mike Bostock
 
-Leaflet Ruler Plug-In (Bonus Points): [Leaflet Ruler](https://github.com/gokertanrisever/leaflet-ruler) by Göker Tanrısever in collaboration with Dmitriy Zaporozhets
+Leaflet Ruler Plugin (Bonus Points): [Leaflet Ruler](https://github.com/gokertanrisever/leaflet-ruler) by Göker Tanrısever in collaboration with Dmitriy Zaporozhets
 
 Basemap: [Voyager with Labels Basemap](https://carto.com/help/building-maps/basemap-list/) by CartoDB
 
