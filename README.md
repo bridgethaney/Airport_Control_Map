@@ -21,6 +21,15 @@ I was surprised to see several hundred airports without a control tower. This is
 
 It also makes sense that states like Florida, California, and Texas lead in number of airports. With each of those named states having some of the highest populations in the US, there would need to be a higher number of airports to allow those populations to travel. Alaska is also included as a state with a high number of airports because of how large it is in terms of land mass. In order to cover more ground to reach the populations scattered, there needs to be more airports.
 
+### Libraries/Packages
+
+- Leaflet
+- Chroma.js
+- JQuery
+- Leaflet-Ruler
+- Font Awesome
+
+
 ### Credit
 
 Airport Dataset: [Airport Data](https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile) by Data.Gov
