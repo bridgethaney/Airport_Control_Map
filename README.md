@@ -7,7 +7,7 @@
 
 ### Introduction
 
-This choropleth map displays over 950 airports across the United States. They are scattered across the continental United States, . 
+This choropleth map displays over 950 airports across the United States. They are scattered throughout all 50 states, as well as the United States territory of Puerto Rico. 
 
 ### How to Use and Read the Map
 
@@ -28,5 +28,7 @@ US States Boundaries: [US-States Boundaries](https://bost.ocks.org/mike/) by Mik
 Leaflet Ruler Plug-In (Bonus Points): [Leaflet Ruler](https://github.com/gokertanrisever/leaflet-ruler) by Göker Tanrısever in collaboration with Dmitriy Zaporozhets
 
 Basemap: [Voyager with Labels Basemap](https://carto.com/help/building-maps/basemap-list/) by CartoDB
+
+Code: Used code from [Lab 03](https://github.com/jakobzhao/geog458/tree/master/labs/lab03) by Bo Zhao
 
 
