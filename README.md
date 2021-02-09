@@ -32,7 +32,7 @@ It also makes sense that states like Florida, California, and Texas lead in numb
 
 ### Acknowledgement
 
-This map was created with the assistance and guidance of the GEOG 458 lab 3 content produced by Bo Zhao. Code snippets from the lab were used and reworked to make this interactive project.
+This map was created with the assistance and guidance of the GEOG 458 Lab 3 content produced by Bo Zhao. Code snippets from the lab were used and reworked to make this interactive project.
 
 ### Credit
 
