@@ -7,7 +7,7 @@
 
 ### Introduction
 
-This choropleth map displays over 950 airports across the United States. They are scattered throughout all 50 states, as well as the US territory of Puerto Rico. As observed, the airports are divided into whether they have control towers or not. This is meant to create a discussion around whether control towers are more dominant or if there are more airports without control towers. It is also important to figure out the implications of why there are not control towers. The map is also color coordinated based on the number of airports in each state. 
+This choropleth map displays over 950 airports across the United States. They are scattered throughout all 50 states, as well as located in the US territory of Puerto Rico. As observed, the airports are divided into whether they have control towers or not. The map is also color coordinated based on the number of airports in each state. These two pieces of information can formulate important analysis and hypotheses into why airports in the United States are operated in certain ways and whether there is a relationship between 
 
 ### How to Use and Read the Map
 
@@ -19,7 +19,7 @@ As for the legend, there are two main sections that are present: number of airpo
 
 I was surprised to see several hundred airports without a control tower. This is seemingly hazardous, as there is not proper focus being placed on air traffic. It is especially apparent in Alaska how many airports exist without control towers. Perhaps the number of planes going to and from the airports at a given time, as well as the trajectory of each flight plays a role in whether control towers are necessary. However, it still seems that there are more airports with control towers than without towers.
 
-It also makes sense that states like Florida, California, and Texas lead in number of airports. With each of those named states having some of the highest populations in the US,. Alaska is also included as a state with some of the most number of because of how large it is in terms of land mass. 
+It also makes sense that states like Florida, California, and Texas lead in number of airports. With each of those named states having some of the highest populations in the US, there would need to be a higher number of airports to allow those populations to travel. Alaska is also included as a state with a high number of airports because of how large it is in terms of land mass. In order to cover more ground to reach the populations scattered, there needs to be more airports.
 
 ### Credit
 
