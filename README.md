@@ -27,4 +27,6 @@ US States Boundaries: [US-States Boundaries](https://bost.ocks.org/mike/) by Mik
 
 Leaflet Ruler Plug-In (Bonus Points): [Leaflet Ruler](https://github.com/gokertanrisever/leaflet-ruler) by Göker Tanrısever in collaboration with Dmitriy Zaporozhets
 
+Basemap: [Voyager with Labels Basemap](https://carto.com/help/building-maps/basemap-list/) by CartoDB
+
 
