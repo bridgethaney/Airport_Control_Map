@@ -30,7 +30,7 @@ It also makes sense that states like Florida, California, and Texas lead in numb
 - JQuery - [Source](https://jquery.com/)
   - Manipulates the HTML elements
 - Leaflet-Ruler - [Source](https://github.com/gokertanrisever/leaflet-ruler)
-  - Allows users to find the distance between any given points on a map
+  - Allows users to find the distance between any given points on the map
 - Font Awesome - [Source](https://fontawesome.com/)
   - Contains the airplane icons used in the map, as well as other icons
 
@@ -39,7 +39,7 @@ It also makes sense that states like Florida, California, and Texas lead in numb
 
 This map was created with the assistance and guidance of the GEOG 458 Lab 3 content produced by Bo Zhao. Code snippets from the lab were used and reworked to make this interactive project.
 
-### Credit
+### Resources Credit
 
 Airport Dataset: [Airport Data](https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile) by Data.Gov
 
