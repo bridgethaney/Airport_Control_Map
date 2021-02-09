@@ -17,7 +17,7 @@ As for the legend, there are two main sections that are present: number of airpo
 
 ### Analysis
 
-I was surprised to see several hundred airports without a control tower. This is seemingly hazardous, as there is not proper focus being placed on air traffic. It is especially apparent in Alaska how many airports exist without control towers. Perhaps the number of planes going to and from the airports at a given time, as well as the trajectory of each flight plays a role in whether control towers are necessary. However, it still seems that there are more airports with control towers than without towers.
+I was surprised to see several hundred airports without a control tower. This is seemingly hazardous, as there is not proper focus being placed on air traffic. It is especially apparent in Alaska how many airports exist without control towers. Perhaps the number of planes going to and from the airports at a given time, as well as the trajectory of each flight, plays a role in whether control towers are necessary. However, it still seems that there are more airports with control towers than without towers.
 
 It also makes sense that states like Florida, California, and Texas lead in number of airports. With each of those named states having some of the highest populations in the US, there would need to be a higher number of airports to allow those populations to travel. Alaska is also included as a state with a high number of airports because of how large it is in terms of land mass. In order to cover more ground to reach the populations scattered, there needs to be more airports.
 
